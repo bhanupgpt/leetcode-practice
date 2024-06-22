@@ -7,6 +7,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/bhanupgpt/leetcode-practice/tree/master/0853-most-profit-assigning-work) |
 | [1138-grumpy-bookstore-owner](https://github.com/bhanupgpt/leetcode-practice/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/bhanupgpt/leetcode-practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/bhanupgpt/leetcode-practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/bhanupgpt/leetcode-practice/tree/master/1675-magnetic-force-between-two-balls) |
 # Two Pointers
@@ -32,3 +33,12 @@ Collection of LeetCode questions to practice for a coding interview!
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/bhanupgpt/leetcode-practice/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/bhanupgpt/leetcode-practice/tree/master/1370-count-number-of-nice-subarrays) |
+# Hash Table
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/bhanupgpt/leetcode-practice/tree/master/1370-count-number-of-nice-subarrays) |
+# Math
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/bhanupgpt/leetcode-practice/tree/master/1370-count-number-of-nice-subarrays) |
