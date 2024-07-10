@@ -4,14 +4,14 @@ public:
         int score = 0;
         for(int i=0; i<logs.size(); i++) {
             if(logs[i] == "../") {
-                if(score != 0) score -= 1;
+                if(score != 0) score--;
                 
             }
             else if(logs[i] == "./") {
-                score += 0;
+                ;
             }
             else {
-                score += 1;
+                score ++;
             }
         }
 
