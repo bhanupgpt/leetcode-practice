@@ -137,6 +137,7 @@ Collection of LeetCode questions to practice for a coding interview!
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhanupgpt/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/bhanupgpt/leetcode-practice/tree/master/1293-three-consecutive-odds) |
@@ -224,4 +225,8 @@ Collection of LeetCode questions to practice for a coding interview!
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhanupgpt/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
