@@ -94,6 +94,7 @@ Collection of LeetCode questions to practice for a coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/bhanupgpt/leetcode-practice/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhanupgpt/leetcode-practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhanupgpt/leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bhanupgpt/leetcode-practice/tree/master/2379-maximum-total-importance-of-roads) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [0040-combination-sum-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bhanupgpt/leetcode-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0890-lemonade-change](https://github.com/bhanupgpt/leetcode-practice/tree/master/0890-lemonade-change) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhanupgpt/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/bhanupgpt/leetcode-practice/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhanupgpt/leetcode-practice/tree/master/1496-lucky-numbers-in-a-matrix) |
