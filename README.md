@@ -115,6 +115,7 @@ Collection of LeetCode questions to practice for a coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhanupgpt/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bhanupgpt/leetcode-practice/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
@@ -154,6 +155,7 @@ Collection of LeetCode questions to practice for a coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/bhanupgpt/leetcode-practice/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhanupgpt/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to practice for a coding interview!
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [1642-water-bottles](https://github.com/bhanupgpt/leetcode-practice/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/bhanupgpt/leetcode-practice/tree/master/2645-pass-the-pillow) |
 ## String
@@ -239,5 +242,6 @@ Collection of LeetCode questions to practice for a coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/bhanupgpt/leetcode-practice/tree/master/2067-maximum-number-of-points-with-cost) |
 <!---LeetCode Topics End-->
