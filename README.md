@@ -186,6 +186,7 @@ Collection of LeetCode questions to practice for a coding interview!
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/bhanupgpt/leetcode-practice/tree/master/0650-2-keys-keyboard) |
 | [1642-water-bottles](https://github.com/bhanupgpt/leetcode-practice/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/bhanupgpt/leetcode-practice/tree/master/2645-pass-the-pillow) |
 ## String
@@ -243,5 +244,6 @@ Collection of LeetCode questions to practice for a coding interview!
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/bhanupgpt/leetcode-practice/tree/master/0650-2-keys-keyboard) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/bhanupgpt/leetcode-practice/tree/master/2067-maximum-number-of-points-with-cost) |
 <!---LeetCode Topics End-->
