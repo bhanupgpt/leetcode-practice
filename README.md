@@ -145,6 +145,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bhanupgpt/leetcode-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/bhanupgpt/leetcode-practice/tree/master/0890-lemonade-change) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhanupgpt/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/bhanupgpt/leetcode-practice/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhanupgpt/leetcode-practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhanupgpt/leetcode-practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | ------- |
 | [0264-ugly-number-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/bhanupgpt/leetcode-practice/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/bhanupgpt/leetcode-practice/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/bhanupgpt/leetcode-practice/tree/master/2645-pass-the-pillow) |
 ## String
@@ -245,5 +247,14 @@ Collection of LeetCode questions to practice for a coding interview!
 | ------- |
 | [0264-ugly-number-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/bhanupgpt/leetcode-practice/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/bhanupgpt/leetcode-practice/tree/master/2067-maximum-number-of-points-with-cost) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
