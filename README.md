@@ -126,11 +126,13 @@ Collection of LeetCode questions to practice for a coding interview!
 | [1207-delete-nodes-and-return-forest](https://github.com/bhanupgpt/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bhanupgpt/leetcode-practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/bhanupgpt/leetcode-practice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2035-count-sub-islands](https://github.com/bhanupgpt/leetcode-practice/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bhanupgpt/leetcode-practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bhanupgpt/leetcode-practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2035-count-sub-islands](https://github.com/bhanupgpt/leetcode-practice/tree/master/2035-count-sub-islands) |
 ## Topological Sort
 |  |
 | ------- |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to practice for a coding interview!
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/bhanupgpt/leetcode-practice/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2035-count-sub-islands](https://github.com/bhanupgpt/leetcode-practice/tree/master/2035-count-sub-islands) |
 ## Array
 |  |
 | ------- |
@@ -153,6 +156,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhanupgpt/leetcode-practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/bhanupgpt/leetcode-practice/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/bhanupgpt/leetcode-practice/tree/master/1803-average-waiting-time) |
+| [2035-count-sub-islands](https://github.com/bhanupgpt/leetcode-practice/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/bhanupgpt/leetcode-practice/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhanupgpt/leetcode-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
@@ -239,6 +243,7 @@ Collection of LeetCode questions to practice for a coding interview!
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhanupgpt/leetcode-practice/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2035-count-sub-islands](https://github.com/bhanupgpt/leetcode-practice/tree/master/2035-count-sub-islands) |
 ## Design
 |  |
 | ------- |
