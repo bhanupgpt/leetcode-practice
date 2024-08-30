@@ -105,6 +105,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/bhanupgpt/leetcode-practice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/bhanupgpt/leetcode-practice/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bhanupgpt/leetcode-practice/tree/master/2379-maximum-total-importance-of-roads) |
+| [2803-modify-graph-edge-weights](https://github.com/bhanupgpt/leetcode-practice/tree/master/2803-modify-graph-edge-weights) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [0264-ugly-number-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhanupgpt/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bhanupgpt/leetcode-practice/tree/master/2379-maximum-total-importance-of-roads) |
+| [2803-modify-graph-edge-weights](https://github.com/bhanupgpt/leetcode-practice/tree/master/2803-modify-graph-edge-weights) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -284,4 +286,8 @@ Collection of LeetCode questions to practice for a coding interview!
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/bhanupgpt/leetcode-practice/tree/master/0476-number-complement) |
+## Shortest Path
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/bhanupgpt/leetcode-practice/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
