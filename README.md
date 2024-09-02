@@ -161,6 +161,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhanupgpt/leetcode-practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/bhanupgpt/leetcode-practice/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/bhanupgpt/leetcode-practice/tree/master/1803-average-waiting-time) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhanupgpt/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/bhanupgpt/leetcode-practice/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/bhanupgpt/leetcode-practice/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhanupgpt/leetcode-practice/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bhanupgpt/leetcode-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhanupgpt/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Linked List
 |  |
 | ------- |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [0592-fraction-addition-and-subtraction](https://github.com/bhanupgpt/leetcode-practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [1642-water-bottles](https://github.com/bhanupgpt/leetcode-practice/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/bhanupgpt/leetcode-practice/tree/master/1803-average-waiting-time) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhanupgpt/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bhanupgpt/leetcode-practice/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/bhanupgpt/leetcode-practice/tree/master/2645-pass-the-pillow) |
 ## Math
@@ -278,6 +281,7 @@ Collection of LeetCode questions to practice for a coding interview!
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhanupgpt/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
 | ------- |
