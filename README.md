@@ -164,6 +164,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhanupgpt/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/bhanupgpt/leetcode-practice/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/bhanupgpt/leetcode-practice/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2155-find-missing-observations](https://github.com/bhanupgpt/leetcode-practice/tree/master/2155-find-missing-observations) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhanupgpt/leetcode-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [1803-average-waiting-time](https://github.com/bhanupgpt/leetcode-practice/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhanupgpt/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/bhanupgpt/leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2155-find-missing-observations](https://github.com/bhanupgpt/leetcode-practice/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bhanupgpt/leetcode-practice/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/bhanupgpt/leetcode-practice/tree/master/2645-pass-the-pillow) |
 ## Math
@@ -209,6 +211,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [0650-2-keys-keyboard](https://github.com/bhanupgpt/leetcode-practice/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/bhanupgpt/leetcode-practice/tree/master/1642-water-bottles) |
+| [2155-find-missing-observations](https://github.com/bhanupgpt/leetcode-practice/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/bhanupgpt/leetcode-practice/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
