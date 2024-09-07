@@ -166,6 +166,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [2067-maximum-number-of-points-with-cost](https://github.com/bhanupgpt/leetcode-practice/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2155-find-missing-observations](https://github.com/bhanupgpt/leetcode-practice/tree/master/2155-find-missing-observations) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhanupgpt/leetcode-practice/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhanupgpt/leetcode-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bhanupgpt/leetcode-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhanupgpt/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhanupgpt/leetcode-practice/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhanupgpt/leetcode-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/bhanupgpt/leetcode-practice/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bhanupgpt/leetcode-practice/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhanupgpt/leetcode-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
