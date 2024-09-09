@@ -166,6 +166,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [2067-maximum-number-of-points-with-cost](https://github.com/bhanupgpt/leetcode-practice/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2155-find-missing-observations](https://github.com/bhanupgpt/leetcode-practice/tree/master/2155-find-missing-observations) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhanupgpt/leetcode-practice/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2411-spiral-matrix-iv](https://github.com/bhanupgpt/leetcode-practice/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhanupgpt/leetcode-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [0725-split-linked-list-in-parts](https://github.com/bhanupgpt/leetcode-practice/tree/master/0725-split-linked-list-in-parts) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/bhanupgpt/leetcode-practice/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bhanupgpt/leetcode-practice/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/bhanupgpt/leetcode-practice/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhanupgpt/leetcode-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/bhanupgpt/leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/bhanupgpt/leetcode-practice/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bhanupgpt/leetcode-practice/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/bhanupgpt/leetcode-practice/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/bhanupgpt/leetcode-practice/tree/master/2645-pass-the-pillow) |
 ## Math
 |  |
@@ -262,6 +265,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhanupgpt/leetcode-practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2035-count-sub-islands](https://github.com/bhanupgpt/leetcode-practice/tree/master/2035-count-sub-islands) |
+| [2411-spiral-matrix-iv](https://github.com/bhanupgpt/leetcode-practice/tree/master/2411-spiral-matrix-iv) |
 ## Design
 |  |
 | ------- |
