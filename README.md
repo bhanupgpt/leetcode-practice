@@ -196,6 +196,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/bhanupgpt/leetcode-practice/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bhanupgpt/leetcode-practice/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/bhanupgpt/leetcode-practice/tree/master/2411-spiral-matrix-iv) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bhanupgpt/leetcode-practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhanupgpt/leetcode-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [1642-water-bottles](https://github.com/bhanupgpt/leetcode-practice/tree/master/1642-water-bottles) |
 | [2155-find-missing-observations](https://github.com/bhanupgpt/leetcode-practice/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/bhanupgpt/leetcode-practice/tree/master/2645-pass-the-pillow) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bhanupgpt/leetcode-practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String
 |  |
 | ------- |
@@ -307,4 +309,8 @@ Collection of LeetCode questions to practice for a coding interview!
 |  |
 | ------- |
 | [2803-modify-graph-edge-weights](https://github.com/bhanupgpt/leetcode-practice/tree/master/2803-modify-graph-edge-weights) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bhanupgpt/leetcode-practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
