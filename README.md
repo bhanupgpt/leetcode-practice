@@ -150,6 +150,7 @@ Collection of LeetCode questions to practice for a coding interview!
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/bhanupgpt/leetcode-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhanupgpt/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to practice for a coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/bhanupgpt/leetcode-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0040-combination-sum-ii) |
 ## Dynamic Programming
 |  |
