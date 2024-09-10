@@ -152,6 +152,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | ------- |
 | [0039-combination-sum](https://github.com/bhanupgpt/leetcode-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/bhanupgpt/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhanupgpt/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bhanupgpt/leetcode-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to practice for a coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bhanupgpt/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/bhanupgpt/leetcode-practice/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/bhanupgpt/leetcode-practice/tree/master/0664-strange-printer) |
@@ -318,4 +320,8 @@ Collection of LeetCode questions to practice for a coding interview!
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bhanupgpt/leetcode-practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/bhanupgpt/leetcode-practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
