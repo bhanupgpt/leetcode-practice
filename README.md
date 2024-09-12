@@ -163,6 +163,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhanupgpt/leetcode-practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhanupgpt/leetcode-practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/bhanupgpt/leetcode-practice/tree/master/1720-crawler-log-folder) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/bhanupgpt/leetcode-practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/bhanupgpt/leetcode-practice/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhanupgpt/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/bhanupgpt/leetcode-practice/tree/master/2035-count-sub-islands) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [0726-number-of-atoms](https://github.com/bhanupgpt/leetcode-practice/tree/master/0726-number-of-atoms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bhanupgpt/leetcode-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhanupgpt/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/bhanupgpt/leetcode-practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhanupgpt/leetcode-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhanupgpt/leetcode-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -236,6 +238,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [0726-number-of-atoms](https://github.com/bhanupgpt/leetcode-practice/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bhanupgpt/leetcode-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/bhanupgpt/leetcode-practice/tree/master/1720-crawler-log-folder) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/bhanupgpt/leetcode-practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhanupgpt/leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/bhanupgpt/leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bhanupgpt/leetcode-practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -312,6 +315,7 @@ Collection of LeetCode questions to practice for a coding interview!
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/bhanupgpt/leetcode-practice/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/bhanupgpt/leetcode-practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/bhanupgpt/leetcode-practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Shortest Path
 |  |
@@ -325,4 +329,8 @@ Collection of LeetCode questions to practice for a coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhanupgpt/leetcode-practice/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/bhanupgpt/leetcode-practice/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
