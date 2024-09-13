@@ -160,6 +160,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [1207-delete-nodes-and-return-forest](https://github.com/bhanupgpt/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/bhanupgpt/leetcode-practice/tree/master/1293-three-consecutive-odds) |
+| [1435-xor-queries-of-a-subarray](https://github.com/bhanupgpt/leetcode-practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhanupgpt/leetcode-practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhanupgpt/leetcode-practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/bhanupgpt/leetcode-practice/tree/master/1720-crawler-log-folder) |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to practice for a coding interview!
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/bhanupgpt/leetcode-practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhanupgpt/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to practice for a coding interview!
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/bhanupgpt/leetcode-practice/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/bhanupgpt/leetcode-practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bhanupgpt/leetcode-practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/bhanupgpt/leetcode-practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Shortest Path
