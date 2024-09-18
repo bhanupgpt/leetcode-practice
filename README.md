@@ -94,6 +94,7 @@ Collection of LeetCode questions to practice for a coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/bhanupgpt/leetcode-practice/tree/master/0179-largest-number) |
 | [0890-lemonade-change](https://github.com/bhanupgpt/leetcode-practice/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhanupgpt/leetcode-practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhanupgpt/leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to practice for a coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/bhanupgpt/leetcode-practice/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/bhanupgpt/leetcode-practice/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bhanupgpt/leetcode-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [0040-combination-sum-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/bhanupgpt/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhanupgpt/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/bhanupgpt/leetcode-practice/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/bhanupgpt/leetcode-practice/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bhanupgpt/leetcode-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -239,6 +242,7 @@ Collection of LeetCode questions to practice for a coding interview!
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/bhanupgpt/leetcode-practice/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/bhanupgpt/leetcode-practice/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/bhanupgpt/leetcode-practice/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/bhanupgpt/leetcode-practice/tree/master/0592-fraction-addition-and-subtraction) |
