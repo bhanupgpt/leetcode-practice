@@ -162,6 +162,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/bhanupgpt/leetcode-practice/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bhanupgpt/leetcode-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/bhanupgpt/leetcode-practice/tree/master/0729-my-calendar-i) |
 | [0890-lemonade-change](https://github.com/bhanupgpt/leetcode-practice/tree/master/0890-lemonade-change) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhanupgpt/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/1240-stone-game-ii) |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bhanupgpt/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bhanupgpt/leetcode-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/bhanupgpt/leetcode-practice/tree/master/0729-my-calendar-i) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhanupgpt/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Linked List
 |  |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to practice for a coding interview!
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/bhanupgpt/leetcode-practice/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhanupgpt/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -395,4 +398,12 @@ Collection of LeetCode questions to practice for a coding interview!
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/bhanupgpt/leetcode-practice/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bhanupgpt/leetcode-practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bhanupgpt/leetcode-practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/bhanupgpt/leetcode-practice/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/bhanupgpt/leetcode-practice/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
