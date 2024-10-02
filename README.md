@@ -115,6 +115,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [0539-minimum-time-difference](https://github.com/bhanupgpt/leetcode-practice/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/bhanupgpt/leetcode-practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/bhanupgpt/leetcode-practice/tree/master/0726-number-of-atoms) |
+| [1256-rank-transform-of-an-array](https://github.com/bhanupgpt/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhanupgpt/leetcode-practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bhanupgpt/leetcode-practice/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
@@ -168,6 +169,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [0890-lemonade-change](https://github.com/bhanupgpt/leetcode-practice/tree/master/0890-lemonade-change) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhanupgpt/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/1240-stone-game-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/bhanupgpt/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/bhanupgpt/leetcode-practice/tree/master/1293-three-consecutive-odds) |
 | [1435-xor-queries-of-a-subarray](https://github.com/bhanupgpt/leetcode-practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhanupgpt/leetcode-practice/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [0920-uncommon-words-from-two-sentences](https://github.com/bhanupgpt/leetcode-practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/bhanupgpt/leetcode-practice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/bhanupgpt/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/bhanupgpt/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bhanupgpt/leetcode-practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bhanupgpt/leetcode-practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhanupgpt/leetcode-practice/tree/master/2306-create-binary-tree-from-descriptions) |
