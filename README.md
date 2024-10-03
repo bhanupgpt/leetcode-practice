@@ -175,6 +175,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhanupgpt/leetcode-practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/bhanupgpt/leetcode-practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhanupgpt/leetcode-practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1694-make-sum-divisible-by-p](https://github.com/bhanupgpt/leetcode-practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/bhanupgpt/leetcode-practice/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bhanupgpt/leetcode-practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/bhanupgpt/leetcode-practice/tree/master/1803-average-waiting-time) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [1207-delete-nodes-and-return-forest](https://github.com/bhanupgpt/leetcode-practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/bhanupgpt/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bhanupgpt/leetcode-practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1694-make-sum-divisible-by-p](https://github.com/bhanupgpt/leetcode-practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bhanupgpt/leetcode-practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhanupgpt/leetcode-practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bhanupgpt/leetcode-practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [1240-stone-game-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/bhanupgpt/leetcode-practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/bhanupgpt/leetcode-practice/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1694-make-sum-divisible-by-p](https://github.com/bhanupgpt/leetcode-practice/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhanupgpt/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
