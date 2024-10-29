@@ -190,6 +190,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bhanupgpt/leetcode-practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bhanupgpt/leetcode-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/bhanupgpt/leetcode-practice/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/bhanupgpt/leetcode-practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bhanupgpt/leetcode-practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhanupgpt/leetcode-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -317,6 +318,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [1496-lucky-numbers-in-a-matrix](https://github.com/bhanupgpt/leetcode-practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2035-count-sub-islands](https://github.com/bhanupgpt/leetcode-practice/tree/master/2035-count-sub-islands) |
 | [2411-spiral-matrix-iv](https://github.com/bhanupgpt/leetcode-practice/tree/master/2411-spiral-matrix-iv) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/bhanupgpt/leetcode-practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [0664-strange-printer](https://github.com/bhanupgpt/leetcode-practice/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/bhanupgpt/leetcode-practice/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/bhanupgpt/leetcode-practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
