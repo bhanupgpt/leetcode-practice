@@ -231,6 +231,7 @@ Collection of LeetCode questions to practice for a coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhanupgpt/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0432-all-oone-data-structure](https://github.com/bhanupgpt/leetcode-practice/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/bhanupgpt/leetcode-practice/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/bhanupgpt/leetcode-practice/tree/master/0859-design-circular-deque) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to practice for a coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhanupgpt/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bhanupgpt/leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/bhanupgpt/leetcode-practice/tree/master/0539-minimum-time-difference) |
@@ -403,6 +405,7 @@ Collection of LeetCode questions to practice for a coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhanupgpt/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/bhanupgpt/leetcode-practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
