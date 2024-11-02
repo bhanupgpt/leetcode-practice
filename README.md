@@ -290,6 +290,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/bhanupgpt/leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/bhanupgpt/leetcode-practice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/bhanupgpt/leetcode-practice/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2580-circular-sentence](https://github.com/bhanupgpt/leetcode-practice/tree/master/2580-circular-sentence) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bhanupgpt/leetcode-practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Stack
 |  |
