@@ -121,6 +121,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhanupgpt/leetcode-practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bhanupgpt/leetcode-practice/tree/master/2379-maximum-total-importance-of-roads) |
 | [2554-minimum-total-distance-traveled](https://github.com/bhanupgpt/leetcode-practice/tree/master/2554-minimum-total-distance-traveled) |
+| [3291-find-if-array-can-be-sorted](https://github.com/bhanupgpt/leetcode-practice/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [2554-minimum-total-distance-traveled](https://github.com/bhanupgpt/leetcode-practice/tree/master/2554-minimum-total-distance-traveled) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/bhanupgpt/leetcode-practice/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/bhanupgpt/leetcode-practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3291-find-if-array-can-be-sorted](https://github.com/bhanupgpt/leetcode-practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bhanupgpt/leetcode-practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhanupgpt/leetcode-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -385,6 +387,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [1786-count-the-number-of-consistent-strings](https://github.com/bhanupgpt/leetcode-practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/bhanupgpt/leetcode-practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bhanupgpt/leetcode-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3291-find-if-array-can-be-sorted](https://github.com/bhanupgpt/leetcode-practice/tree/master/3291-find-if-array-can-be-sorted) |
 ## Shortest Path
 |  |
 | ------- |
