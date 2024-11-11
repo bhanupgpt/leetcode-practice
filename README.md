@@ -101,6 +101,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [1818-maximum-score-from-removing-substrings](https://github.com/bhanupgpt/leetcode-practice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bhanupgpt/leetcode-practice/tree/master/2379-maximum-total-importance-of-roads) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/bhanupgpt/leetcode-practice/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/bhanupgpt/leetcode-practice/tree/master/2716-prime-subtraction-operation) |
 ## Graph
 |  |
 | ------- |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bhanupgpt/leetcode-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2554-minimum-total-distance-traveled](https://github.com/bhanupgpt/leetcode-practice/tree/master/2554-minimum-total-distance-traveled) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/bhanupgpt/leetcode-practice/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/bhanupgpt/leetcode-practice/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/bhanupgpt/leetcode-practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/bhanupgpt/leetcode-practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bhanupgpt/leetcode-practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [0731-my-calendar-ii](https://github.com/bhanupgpt/leetcode-practice/tree/master/0731-my-calendar-ii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/bhanupgpt/leetcode-practice/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/bhanupgpt/leetcode-practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2716-prime-subtraction-operation](https://github.com/bhanupgpt/leetcode-practice/tree/master/2716-prime-subtraction-operation) |
 ## Linked List
 |  |
 | ------- |
@@ -270,6 +273,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [1642-water-bottles](https://github.com/bhanupgpt/leetcode-practice/tree/master/1642-water-bottles) |
 | [2155-find-missing-observations](https://github.com/bhanupgpt/leetcode-practice/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/bhanupgpt/leetcode-practice/tree/master/2645-pass-the-pillow) |
+| [2716-prime-subtraction-operation](https://github.com/bhanupgpt/leetcode-practice/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bhanupgpt/leetcode-practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String
 |  |
@@ -395,6 +399,7 @@ Collection of LeetCode questions to practice for a coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/bhanupgpt/leetcode-practice/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/bhanupgpt/leetcode-practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Divide and Conquer
 |  |
