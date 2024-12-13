@@ -122,6 +122,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/bhanupgpt/leetcode-practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bhanupgpt/leetcode-practice/tree/master/2379-maximum-total-importance-of-roads) |
 | [2554-minimum-total-distance-traveled](https://github.com/bhanupgpt/leetcode-practice/tree/master/2554-minimum-total-distance-traveled) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhanupgpt/leetcode-practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/bhanupgpt/leetcode-practice/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
 |  |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [0789-kth-largest-element-in-a-stream](https://github.com/bhanupgpt/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bhanupgpt/leetcode-practice/tree/master/2379-maximum-total-importance-of-roads) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/bhanupgpt/leetcode-practice/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhanupgpt/leetcode-practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2803-modify-graph-edge-weights](https://github.com/bhanupgpt/leetcode-practice/tree/master/2803-modify-graph-edge-weights) |
 ## Depth-First Search
 |  |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/bhanupgpt/leetcode-practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2554-minimum-total-distance-traveled](https://github.com/bhanupgpt/leetcode-practice/tree/master/2554-minimum-total-distance-traveled) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/bhanupgpt/leetcode-practice/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhanupgpt/leetcode-practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2716-prime-subtraction-operation](https://github.com/bhanupgpt/leetcode-practice/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/bhanupgpt/leetcode-practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/bhanupgpt/leetcode-practice/tree/master/3291-find-if-array-can-be-sorted) |
@@ -216,6 +219,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [1694-make-sum-divisible-by-p](https://github.com/bhanupgpt/leetcode-practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/bhanupgpt/leetcode-practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/bhanupgpt/leetcode-practice/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhanupgpt/leetcode-practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/bhanupgpt/leetcode-practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhanupgpt/leetcode-practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -259,6 +263,7 @@ Collection of LeetCode questions to practice for a coding interview!
 | [2299-merge-nodes-in-between-zeros](https://github.com/bhanupgpt/leetcode-practice/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/bhanupgpt/leetcode-practice/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/bhanupgpt/leetcode-practice/tree/master/2645-pass-the-pillow) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhanupgpt/leetcode-practice/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Math
 |  |
 | ------- |
